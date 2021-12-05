@@ -5,7 +5,7 @@
 -->
 How about I let you in on some secrets?😏
 
-- 👨🏾‍💻 Python🐍, JavaScript, Django, Django Rest Framework, PostgreSQL, SQLite, Git, GitHub Actions, HTML, CSS, BootStrap
+- 👨🏾‍💻 Python🐍, JavaScript, Django, Django Rest Framework, Node.js, Express.js, PostgreSQL, MongoDB, SQLite, Git, GitHub Actions, HTML, CSS, BootStrap
 - 🔭 I’m currently working on cool python projects
 - 🌱 I’m currently bolstering my AWS skills and knowledge of Node.js
 - 👯 I’m looking to collaborate on exciting software engineering projects
